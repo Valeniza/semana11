@@ -1,0 +1,24 @@
+Explicar la interfaz básica
+Describe cómo sería una interfaz simple para esta plataforma.
+Debe incluir al menos:
+
+- Formulario para crear una causa.
+- Botón para apoyar una causa.
+- Contador de apoyos.
+- Vista de causas disponibles.
+
+Reporte - Solicitud 
+
+- En la parte superior de la interfaz habría una sección para crear un nuevo reporte 
+de algún problema o situación que se presente en la comunidad.
+
+- Para realizar un reporte el usuario deberá completar los siguientes campos:
+tipo de reporte, título, descripción, fecha y luego hacer clic en el botón enviar reporte.
+
+- Más abajo, la interfaz mostrara una lista con los reportes realizados por los usuarios para
+que puedan ser consultados.
+Estos reportes contarán con un botón para realizar una solicitud para que el problema sea 
+atendido.
+
+- La interfaz tendrá un contador que mostrará cuantas solicitudes ha recibido cada reporte por 
+parte de los usuarios.

@@ -1,0 +1,22 @@
+Diseñar modelo de datos simple
+
+Entidad: Reporte
+
+id
+titulo
+fecha
+descripción
+
+Propósito: Guardar los reportes presentados por los ciudadanos sobre problemáticas
+o situaciones presentadas en la comunidad.
+
+Entidad: Solicitud 
+
+id
+reporte_id
+fecha 
+estado
+
+propósito: 
+Registra las solicitudes relacionadas a un reporte para realizar un seguimiento y consultar 
+su estado.
